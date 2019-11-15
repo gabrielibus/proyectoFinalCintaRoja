@@ -1,0 +1,29 @@
+.priorityRed {
+    background-color:#ffa600;
+    width: 65px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 15px;
+    color: black;
+
+}
+
+.priorityGreen {
+    background-color: rgb(0, 209, 209);
+    width: 65px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 15px;
+    color: black;
+
+}
+
+.priorityYellow {
+    background-color: #fdff72;
+    width: 65px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 15px;
+    color: black;
+
+}

@@ -7,7 +7,24 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h3, h5 {
+  text-align: center;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.avatar {
+  width: 150px;
+}
+
+p {
+  font-size: medium;
+}
+
+#newTask {
+  max-width: 380px;
+  margin: auto;
 }

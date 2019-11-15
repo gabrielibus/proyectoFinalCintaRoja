@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+        "title": "tarea 1",
+        "task": "lorem ipsum",
+        "priority": "low",
+        "responsible": "Virus"
+    },
+    {
+        "title": "tarea 2",
+        "task": "lorem ipsum 234234234",
+        "priority": "high",
+        "responsible": "Gaia"
+    },
+    {
+        "title": "tarea 3",
+        "task": "lorem ipsum Esta taréa vencerá el dia 8 de diciembre",
+        "priority": "high",
+        "responsible": "Gaia"
+    }
+]
+}

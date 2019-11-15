@@ -1,0 +1,58 @@
+.title {
+    margin-top: 10px;
+    color: teal;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    margin: auto;
+}
+
+.card {
+    border-radius: 5px;
+}
+
+.card-colorRed {
+    width: 100%;
+    height: 20px;
+    background-color: grey;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card-colorYellow {
+    width: 100%;
+    height: 20px;
+    background-color: teal;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card-colorGreen {
+    width: 100%;
+    height: 20px;
+    background-color: lightslategray;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.responsible {
+    color: teal;
+    padding: 10px;
+}
+
+.task {
+    color: black;
+    font-size: medium;
+    padding: 10px;
+
+}
